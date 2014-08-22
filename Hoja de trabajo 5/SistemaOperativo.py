@@ -1,3 +1,6 @@
+#pablo samayoa
+#jefferson silva
+
 import random
 
 import simpy
